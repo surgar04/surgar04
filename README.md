@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 打字机效果 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=5D4E37&center=true&vCenter=true&width=520&lines=Hi,+I'm+surgar04;Full-stack+Developer;Clean+Code+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=5D4E37&center=true&vCenter=true&width=520&lines=Hi,+I'm+Sur方糖;山不让尘;川不辞盈;Per aspera ad astra​​;うまくいかない時は、神様がくれたお休み" alt="Typing SVG" />
 
   <br/><br/>
 
@@ -24,17 +24,16 @@
 ### 技术栈
 
 <p>
-  <img src="https://img.shields.io/badge/-HTML5-E8D5C4?style=flat-square&logo=html5&logoColor=5D4E37" />
-  <img src="https://img.shields.io/badge/-CSS3-C8D5E8?style=flat-square&logo=css3&logoColor=5D4E37" />
-  <img src="https://img.shields.io/badge/-JavaScript-E8E0C8?style=flat-square&logo=javascript&logoColor=5D4E37" />
   <img src="https://img.shields.io/badge/-TypeScript-C8D8E8?style=flat-square&logo=typescript&logoColor=5D4E37" />
   <img src="https://img.shields.io/badge/-React-C8E8E4?style=flat-square&logo=react&logoColor=5D4E37" />
   <img src="https://img.shields.io/badge/-Vue-D4E8C8?style=flat-square&logo=vue.js&logoColor=5D4E37" />
   <img src="https://img.shields.io/badge/-Node.js-D4E8D0?style=flat-square&logo=node.js&logoColor=5D4E37" />
   <img src="https://img.shields.io/badge/-Python-E0D8E8?style=flat-square&logo=python&logoColor=5D4E37" />
-  <img src="https://img.shields.io/badge/-Git-E8D0D0?style=flat-square&logo=git&logoColor=5D4E37" />
-  <img src="https://img.shields.io/badge/-VS%20Code-C8D0E8?style=flat-square&logo=visual-studio-code&logoColor=5D4E37" />
-  <img src="https://img.shields.io/badge/-Figma-E8D8E8?style=flat-square&logo=figma&logoColor=5D4E37" />
+  <img src="https://img.shields.io/badge/-CSharp-C8D0E8?style=flat-square&logo=CSharp&logoColor=5D4E37" />
+  <img src="https://img.shields.io/badge/-Godot-C8D0E8?style=flat-square&logo=Godot&logoColor=5D4E37" />
+  <img src="https://img.shields.io/badge/-Unity-C8D0E8?style=flat-square&logo=Unity&logoColor=5D4E37" />
+  <img src="https://img.shields.io/badge/-Redis-C8D0E8?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-C8D0E8?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 ---
@@ -63,12 +62,6 @@
 
 </div>
 
-<div align="center">
-
-  <!-- GitHub 奖杯 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=surgar04&no-frame=true&column=7&margin-w=8&margin-h=8&theme=oldie" alt="Trophy" />
-
-</div>
 
 ---
 
